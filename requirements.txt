@@ -1,0 +1,6 @@
+gradio
+PyMuPDF
+fpdf
+httpx
+sentence-transformers
+scikit-learn
